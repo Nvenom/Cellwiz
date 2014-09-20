@@ -1,0 +1,30 @@
+.noprint
+{
+    display: none !important;
+}
+
+.print
+{
+    display: block !important;
+}
+.ui-layout-pane ,
+.ui-layout-resizer ,
+.ui-layout-toggler {
+	display:	none		!important;
+	position:	relative	!important;
+	top:		auto		!important;
+	bottom:		auto		!important;
+	left:		auto		!important;
+	right:		auto		!important;
+	width:		auto		!important;
+	height:		auto		!important;
+	overflow:	visible		!important;
+}
+table{
+    page-break-inside: avoid;
+}
+
+td{
+    padding-left:10px !important;
+	padding-right:10px !important;
+}

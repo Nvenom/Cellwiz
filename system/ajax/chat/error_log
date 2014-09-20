@@ -1,0 +1,104 @@
+[12-Mar-2013 04:38:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/tempmi5/public_html/new/frame/classes/mysql.class.php:9
+Stack trace:
+#0 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(9): PDO->__construct('mysql:host=cell...', 'tempmi5_admin', 'bradde121')
+#1 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(15): MYSQL::DB()
+#2 /home/tempmi5/public_html/new/frame/classes/users.class.php(14): MYSQL::QUERY('SELECT session_...', Array)
+#3 /home/tempmi5/public_html/new/system/ajax/chat/read_message.php(3): USER::VERIFY(0, true)
+#4 {main}
+  thrown in /home/tempmi5/public_html/new/frame/classes/mysql.class.php on line 9
+[12-Mar-2013 04:38:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/tempmi5/public_html/new/frame/classes/mysql.class.php:9
+Stack trace:
+#0 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(9): PDO->__construct('mysql:host=cell...', 'tempmi5_admin', 'bradde121')
+#1 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(15): MYSQL::DB()
+#2 /home/tempmi5/public_html/new/frame/classes/users.class.php(14): MYSQL::QUERY('SELECT session_...', Array)
+#3 /home/tempmi5/public_html/new/system/ajax/chat/read_message.php(3): USER::VERIFY(0, true)
+#4 {main}
+  thrown in /home/tempmi5/public_html/new/frame/classes/mysql.class.php on line 9
+[12-Mar-2013 04:38:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/tempmi5/public_html/new/frame/classes/mysql.class.php:9
+Stack trace:
+#0 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(9): PDO->__construct('mysql:host=cell...', 'tempmi5_admin', 'bradde121')
+#1 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(15): MYSQL::DB()
+#2 /home/tempmi5/public_html/new/frame/classes/users.class.php(14): MYSQL::QUERY('SELECT session_...', Array)
+#3 /home/tempmi5/public_html/new/system/ajax/chat/read_message.php(3): USER::VERIFY(0, true)
+#4 {main}
+  thrown in /home/tempmi5/public_html/new/frame/classes/mysql.class.php on line 9
+[12-Mar-2013 04:38:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/tempmi5/public_html/new/frame/classes/mysql.class.php:9
+Stack trace:
+#0 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(9): PDO->__construct('mysql:host=cell...', 'tempmi5_admin', 'bradde121')
+#1 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(15): MYSQL::DB()
+#2 /home/tempmi5/public_html/new/frame/classes/users.class.php(14): MYSQL::QUERY('SELECT session_...', Array)
+#3 /home/tempmi5/public_html/new/system/ajax/chat/read_message.php(3): USER::VERIFY(0, true)
+#4 {main}
+  thrown in /home/tempmi5/public_html/new/frame/classes/mysql.class.php on line 9
+[12-Mar-2013 04:38:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/tempmi5/public_html/new/frame/classes/mysql.class.php:9
+Stack trace:
+#0 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(9): PDO->__construct('mysql:host=cell...', 'tempmi5_admin', 'bradde121')
+#1 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(15): MYSQL::DB()
+#2 /home/tempmi5/public_html/new/frame/classes/users.class.php(14): MYSQL::QUERY('SELECT session_...', Array)
+#3 /home/tempmi5/public_html/new/system/ajax/chat/read_message.php(3): USER::VERIFY(0, true)
+#4 {main}
+  thrown in /home/tempmi5/public_html/new/frame/classes/mysql.class.php on line 9
+[12-Mar-2013 04:38:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/tempmi5/public_html/new/frame/classes/mysql.class.php:9
+Stack trace:
+#0 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(9): PDO->__construct('mysql:host=cell...', 'tempmi5_admin', 'bradde121')
+#1 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(15): MYSQL::DB()
+#2 /home/tempmi5/public_html/new/frame/classes/users.class.php(14): MYSQL::QUERY('SELECT session_...', Array)
+#3 /home/tempmi5/public_html/new/system/ajax/chat/read_message.php(3): USER::VERIFY(0, true)
+#4 {main}
+  thrown in /home/tempmi5/public_html/new/frame/classes/mysql.class.php on line 9
+[12-Mar-2013 04:38:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/tempmi5/public_html/new/frame/classes/mysql.class.php:9
+Stack trace:
+#0 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(9): PDO->__construct('mysql:host=cell...', 'tempmi5_admin', 'bradde121')
+#1 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(15): MYSQL::DB()
+#2 /home/tempmi5/public_html/new/frame/classes/users.class.php(14): MYSQL::QUERY('SELECT session_...', Array)
+#3 /home/tempmi5/public_html/new/system/ajax/chat/read_message.php(3): USER::VERIFY(0, true)
+#4 {main}
+  thrown in /home/tempmi5/public_html/new/frame/classes/mysql.class.php on line 9
+[12-Mar-2013 04:38:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/tempmi5/public_html/new/frame/classes/mysql.class.php:9
+Stack trace:
+#0 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(9): PDO->__construct('mysql:host=cell...', 'tempmi5_admin', 'bradde121')
+#1 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(15): MYSQL::DB()
+#2 /home/tempmi5/public_html/new/frame/classes/users.class.php(14): MYSQL::QUERY('SELECT session_...', Array)
+#3 /home/tempmi5/public_html/new/system/ajax/chat/read_message.php(3): USER::VERIFY(0, true)
+#4 {main}
+  thrown in /home/tempmi5/public_html/new/frame/classes/mysql.class.php on line 9
+[12-Mar-2013 04:39:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/tempmi5/public_html/new/frame/classes/mysql.class.php:9
+Stack trace:
+#0 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(9): PDO->__construct('mysql:host=cell...', 'tempmi5_admin', 'bradde121')
+#1 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(15): MYSQL::DB()
+#2 /home/tempmi5/public_html/new/frame/classes/users.class.php(14): MYSQL::QUERY('SELECT session_...', Array)
+#3 /home/tempmi5/public_html/new/system/ajax/chat/read_message.php(3): USER::VERIFY(0, true)
+#4 {main}
+  thrown in /home/tempmi5/public_html/new/frame/classes/mysql.class.php on line 9
+[12-Mar-2013 04:39:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/tempmi5/public_html/new/frame/classes/mysql.class.php:9
+Stack trace:
+#0 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(9): PDO->__construct('mysql:host=cell...', 'tempmi5_admin', 'bradde121')
+#1 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(15): MYSQL::DB()
+#2 /home/tempmi5/public_html/new/frame/classes/users.class.php(14): MYSQL::QUERY('SELECT session_...', Array)
+#3 /home/tempmi5/public_html/new/system/ajax/chat/read_message.php(3): USER::VERIFY(0, true)
+#4 {main}
+  thrown in /home/tempmi5/public_html/new/frame/classes/mysql.class.php on line 9
+[12-Mar-2013 04:39:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/tempmi5/public_html/new/frame/classes/mysql.class.php:9
+Stack trace:
+#0 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(9): PDO->__construct('mysql:host=cell...', 'tempmi5_admin', 'bradde121')
+#1 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(15): MYSQL::DB()
+#2 /home/tempmi5/public_html/new/frame/classes/users.class.php(14): MYSQL::QUERY('SELECT session_...', Array)
+#3 /home/tempmi5/public_html/new/system/ajax/chat/read_message.php(3): USER::VERIFY(0, true)
+#4 {main}
+  thrown in /home/tempmi5/public_html/new/frame/classes/mysql.class.php on line 9
+[12-Mar-2013 04:39:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/tempmi5/public_html/new/frame/classes/mysql.class.php:9
+Stack trace:
+#0 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(9): PDO->__construct('mysql:host=cell...', 'tempmi5_admin', 'bradde121')
+#1 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(15): MYSQL::DB()
+#2 /home/tempmi5/public_html/new/frame/classes/users.class.php(14): MYSQL::QUERY('SELECT session_...', Array)
+#3 /home/tempmi5/public_html/new/system/ajax/chat/read_message.php(3): USER::VERIFY(0, true)
+#4 {main}
+  thrown in /home/tempmi5/public_html/new/frame/classes/mysql.class.php on line 9
+[12-Mar-2013 04:42:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] Connection refused' in /home/tempmi5/public_html/new/frame/classes/mysql.class.php:9
+Stack trace:
+#0 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(9): PDO->__construct('mysql:host=cell...', 'tempmi5_admin', 'bradde121')
+#1 /home/tempmi5/public_html/new/frame/classes/mysql.class.php(15): MYSQL::DB()
+#2 /home/tempmi5/public_html/new/frame/classes/users.class.php(14): MYSQL::QUERY('SELECT session_...', Array)
+#3 /home/tempmi5/public_html/new/system/ajax/chat/read_message.php(3): USER::VERIFY(0, true)
+#4 {main}
+  thrown in /home/tempmi5/public_html/new/frame/classes/mysql.class.php on line 9

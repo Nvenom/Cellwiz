@@ -1,0 +1,13 @@
+#HT SECURE FILE#
+
+# Disable unauthorized directory browsing
+Options -Indexes
+
+# Disable the server signature
+ServerSignature Off
+
+# Display custom error pages
+ErrorDocument 400 /new/errors/index.php?e=400
+ErrorDocument 401 /new/errors/index.php?e=401
+ErrorDocument 403 /new/errors/index.php?e=403
+ErrorDocument 404 /new/errors/index.php?e=404

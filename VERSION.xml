@@ -1,0 +1,13 @@
+<RELEASE>
+    <SYSTEM>
+	    <VERSION>0.1.6d</VERSION>
+		<STATUS>Beta</STATUS>
+		<UPDATED>April 16th, 2013 (3:22 PM)</UPDATED>
+	</SYSTEM>
+	<TOOLS>
+	    <TOOL>Added Purchase Order to manager tools. You need minimums set up for it to work.</TOOL>
+	</TOOLS>
+	<BUGS>
+	    <BUG>None Fixed, Sorry...</BUG>
+	</BUGS>
+</RELEASE>
