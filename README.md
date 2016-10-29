@@ -1,12 +1,8 @@
-/*=================<img src="https://secure.cellwiz.net/new/frame/skins/default/images/login-header.png" align="center" alt="Cellwiz"/>============================*\
+/*=================War Engine V 0.1============================*\
 <br/>
 
 
-Cellwiz P.O.S. System designed around inventory Management.
-
-This is open source, i dont watch this repository as its an old project of mine. Config files are missing to make this work. Feel free to use it for whatever you want.
-
-Cellwiz Engine is the framework being developed to host this system. It uses PDO to handle all MySQL connections and queries.
+War Engine is in the process of being developed for rapid release of my game ideas
 ```txt
 File:     frame/engine.php
 Version:  0.1.6
